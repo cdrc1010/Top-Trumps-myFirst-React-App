@@ -1,0 +1,142 @@
+{
+  "cards": [
+    {
+      "name": "Spiderman",
+      "power": "40",
+      "intelligence": "30",
+      "image": "images/spiderman.png",
+      "id": 1
+    },
+    {
+      "name": "Batman",
+      "power": "40",
+      "intelligence": "70",
+      "image": "images/batman.jpg",
+      "id": 2
+    },
+    {
+      "name": "Ironman",
+      "power": "60",
+      "intelligence": "80",
+      "image": "images/ironman.jpg",
+      "id": 3
+    },
+    {
+      "name": "Thor",
+      "power": "90",
+      "intelligence": "30",
+      "image": "images/thor.jpg",
+      "id": 4
+    },
+    {
+      "name": "Superman",
+      "power": "90",
+      "intelligence": "40",
+      "image": "images/superman.jfif",
+      "id": 5
+    },
+    {
+      "name": "Blackwidow",
+      "power": "10",
+      "intelligence": "84",
+      "image": "images/blackwidow.jfif",
+      "id": 6
+    },
+    {
+      "name": "Wolverine",
+      "power": "73",
+      "intelligence": "48",
+      "image": "images/wolverine.jpg",
+      "id": 7
+    },
+    {
+      "name": "Robin",
+      "power": "68",
+      "intelligence": "47",
+      "image": "images/robin.jpg",
+      "id": 8
+    },
+    {
+      "name": "Captain America",
+      "power": "65",
+      "intelligence": "42",
+      "image": "images/camerica.png",
+      "id": 10
+    }
+    ,
+    {
+      "name": "Aquaman",
+      "power": "74",
+      "intelligence": "76",
+      "image": "images/aquaman.jpg",
+      "id": 11
+    }
+    ,
+    {
+      "name": "Rocket Raccoon",
+      "power": "65",
+      "intelligence": "42",
+      "image": "images/rocketracoon.jpeg",
+      "id": 12
+    }
+    ,
+    {
+      "name": "Wong",
+      "power": "43",
+      "intelligence": "32",
+      "image": "images/wong.jpg",
+      "id": 13
+    }
+    ,
+    {
+      "name": "Loki",
+      "power": "63",
+      "intelligence": "55",
+      "image": "images/loki.jpeg",
+      "id": 14
+    }
+    ,
+    {
+      "name": "Ant Man",
+      "power": "66",
+      "intelligence": "32",
+      "image": "images/antman.jpg",
+      "id": 15
+    },
+    {
+      "name": "Black Panther",
+      "power": "65",
+      "intelligence": "42",
+      "image": "images/bpanther.jpg",
+      "id": 16
+    },
+    {
+      "name": "Nick Fury",
+      "power": "75",
+      "intelligence": "32",
+      "image": "images/nickfury.jpeg",
+      "id": 17
+    },
+    {
+      "name": "Dr Strange",
+      "power": "65",
+      "intelligence": "73",
+      "image": "images/drstrange.jpg",
+      "id": 18
+    },
+    {
+      "name": "Groot",
+      "power": "55",
+      "intelligence": "47",
+      "image": "images/groot.jpeg",
+      "id": 19
+    },
+    {
+      "name": "Gamora",
+      "power": "58",
+      "intelligence": "32",
+      "image": "images/gamora.webp",
+      "id": 20
+    }
+  ]
+}
